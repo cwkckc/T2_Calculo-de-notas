@@ -1,0 +1,15 @@
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\bin\Debug\net9.0\t2_calcularnotas.exe
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\bin\Debug\net9.0\t2_calcularnotas.deps.json
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\bin\Debug\net9.0\t2_calcularnotas.runtimeconfig.json
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\bin\Debug\net9.0\t2_calcularnotas.dll
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\bin\Debug\net9.0\t2_calcularnotas.pdb
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.AssemblyInfoInputs.cache
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.AssemblyInfo.cs
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.csproj.CoreCompileInputs.cache
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.sourcelink.json
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.dll
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\refint\t2_calcularnotas.dll
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.pdb
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\t2_calcularnotas.genruntimeconfig.cache
+C:\Fundamento de algoritmo\T2_CalculoNotas\t2_calcularnotas\obj\Debug\net9.0\ref\t2_calcularnotas.dll
