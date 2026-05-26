@@ -104,19 +104,18 @@ class Reporte
         }
         Console.WriteLine("]");
 
+        Console.WriteLine($"Promedio     : {promedio:F2}");
+        Console.WriteLine($"Nota maxima  : {maximo}");
+        Console.WriteLine($"Nota minima  : {minimo}");
+        Console.WriteLine();
+        Console.WriteLine($"Aprobados     : {aprobados} ({pctAprobados:F2}%)");
+        Console.WriteLine($"Desaprobados  : {desaprobados} ({pctDesaprobados:F2}%)");
+ 
+        // 6. desaprobados > 75 % = Alerta
+        if (pctDesaprobados > 75)
+        {
+            Console.WriteLine();
+            Console.WriteLine(" ALERTA: EL 75% A DESAPROBADO ");
+        }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
